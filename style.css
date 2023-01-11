@@ -23,3 +23,8 @@ header nav ul li{
     cursor: pointer;
     justify-content: center;
 }
+
+footer {
+    background-color: black;
+    
+}
